@@ -17,7 +17,7 @@ The definition that covers over to both Top pairs and Side pairs is where you ha
 ### Side Pairs
 Side pairs are somewhat useful, but a bit more difficult to locate.  For the side pairs, my brain sees it best by looking for edges that are not in DR, and look for a corner that is not in DR that is in the R/L face.  It should be lined up next to a bad corner that if an R or L is applied, the corner would become a good corner.
 
-![Side pair circled in pink/purple](https://drive.google.com/thumbnail?id=1u-THqGfPLmOy9_JMIUS0L_mWsQ0Z8GkH&sz=w1000)
+![Side pair circled in purple](https://lh3.googleusercontent.com/d/1u-THqGfPLmOy9_JMIUS0L_mWsQ0Z8GkH=w1000?authuser=0)
 
 *Circled is a side pair*
 
